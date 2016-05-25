@@ -54,7 +54,7 @@ If a Dwarfs beard is cut by an enemy in combat, that Dwarf will usually go into 
 
 If a Dwarfs beard has been cut as a punishment, then it is an acknowledged matter of having dishonored ones person, family or clan somehow.  Other Dwarves will go to great lengths to avoid a beardless Dwarf, sometimes becoming hostile simply to not be seen in contact with one.  These Dwarfs are usually on the path of redemption.  Nothing will stop one of these Dwarves from clearing their honor.
 
-#### Evolution ####
+### Evolution ###
 
 Dwarves have a large number of bony protrusions on their backs that grow out and then curve down, ending in a sharp point, making a scale-like armor when they are standing up and making them more like a porcupine when curled up.  These spikes start at their shoulders and extend all the way down their backs to their tail bones, as well as covering the  outside of their arms down to their knuckles and they also cover the front of their shins.  
 
@@ -64,11 +64,11 @@ Breaking them will injure the Dwarf to a minor degree, but not enough to stop hi
 
 These spikes can be used in many different defense and attack tactics, depending on how creative the Dwarf is.
 
-==Elves==
+## Elves ##
 
 Elves come from different environments (e.g. woods, cities and snow-scapes).
 
-===Evolution===
+### Evolution ###
 
 Elves are natural born were-creatures.  What creature they turn into is dependent on the environment their clan lives in and possibly also dependent on their geographical region.  This would mean that even though there may be 3 different tribes of Elves (just an example) that all live in the woods (possibly even in the same woods) they would all change into different animals that also live in the woods.
 
@@ -78,7 +78,7 @@ The animal type that each clan changes into will have certain changes for their 
 
 Or I might do away with the region dependency and make it so that each clan has a mix of creatures from that environment, with each creature type filling a different role in the clan (Warriors, scouts ans such).  Though I do like the thought of having the Elvish creature clans.  We shall see.
 
-====Environments====
+#### Environments ####
 
 Caves - 
 
@@ -98,7 +98,7 @@ Water -
 
 Woods -
 
-==Gnomes==
+## Gnomes ##
 
 Gnomes have an innate and uncontrollable ability that can save them from danger in most situations.  This ability is a very limited teleportation ability that they can't actually control.  Whenever a Gnome is alerted to imminent danger by one of its 5 senses its survival instincts teleport it up 10 feet in a direction that seems to be safer on a subconscious level.  This teleportation cannot put the Gnome in or even through a wall.  If they happen to be touching/holding a loose object not actively attended by another creature or type of magic then that object is teleported with them.
 
@@ -106,23 +106,23 @@ During combat this can only happen once per 10 rounds at lower levels.
 
 As the Gnome gets older and more experienced this can happen more and more frequently, but the distance teleported never changes.  I might make it so that at very high levels they get an added ability similar in nature that can save the Gnomes life by teleporting him/her to a safe place that the Gnome designates, but this can only happen once per week.
 
-==Humans==
+## Humans ##
 
 Humans are very versatile.  Due to their versatility, their evolutions are varied as well.  Due to this versatility, I am still trying to come up with the various evolutions of humans.
 
-===Evolutions===
+### Evolutions ###
 
 The evolutions of Humans are all based on enhancements to their own chemical makeup.
 
 The main elements that make up a Human are oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus.  I am going to attempt to make an Evolution per element in this list.
 
-====Gravitars====
+##### Gravitars #####
 
 The Gravitars are a group of evolutions for Humans that fit into a single category. Every type of Gravitar manifests his own innate control of magnetism in different ways and all producing different effects.
 
 All Gravitars have a skeletal system that is made of jointed magnets, through an innate control of the electrical charge in their brains they can change the polarity of their skeletal system.  There are different ways to use these magnetic fields and this is why there are different types of Gravitars.
 
-=====Shapers=====
+##### Shapers #####
 
 Shapers focus their control of magnetism to rearrange metal, to a limited degree.  They cannot make a pile of metal bigger, but, as their name implies, they can shape it into something useful, such as armor or a weapon.  
 
@@ -132,17 +132,17 @@ In the early stages of their growth it can take some time to get the desired res
 
 This ability does not grant them the ability to replace magic effects stored in an item.  If a magical item is broken, all a shaper can do is make it back into the type of item it once was, without the magical effects.
 
-=====Slingers=====
+##### Slingers #####
 
 Slingers use magnetism to propel a metal object or objects in a chosen direction away from themselves, essentially turning metal objects into projectiles.
 
 In their early stages, a Slinger can only effect a single small object, about the size of a dagger, out to a distance of 10 ft.  As they level up and work more with the ability, they gain more finite control with multiple small objects and also start being able to manipulate larger metal objects.
 
-====Carbonites====
+##### Carbonites #####
 
 The body of a Carbonite contains so much carbon that it has infused their skin, which gives their bodies a dark gray and slightly reflective quality, but it also provides a natural armor.  At eaarly levels their skin is like graphite and as they level it hardens until it is the consistency of diamond.
 
-==Sorcerers==
+## Sorcerers ##
 
 Sorcerer is going to be a race on Avrilax.
 
@@ -160,11 +160,11 @@ I haven't yet decided what will determine which color each has or if it will be 
 
 Sorcerers have no sex.  They do not physically reproduce on their own.  The magic inside them creates and helps them birth their children.  They are very community driven and they all help in the raising of all of the children born in the community.
 
-==Wizards==
+## Wizards ##
 
 Wizard is going to be a race on Avrilax.
 
-=Skills=
+# Skills #
 
 Skills are common things that everyone can attempt, such as climbing, jumping, riding and sneaking.
 
@@ -172,23 +172,23 @@ I am considering a percentile based system for skills.  At character creation yo
 
 Up until %30 - %50 (not sure exactly yet) you actually gain in skill from both successes and failures, just at different rates.  After the target % is reached then you will only gain from successes.
 
-=Feats=
+# Feats #
 
 Not sure if I will even use Feats.
 
 Feats are special abilities that give a character that special edge.
 
-=Equipment=
+# Equipment #
 
 This chapter will cover equipment statistics and services offered, as well as the purchasing system.
 
-==Purchasing System==
+## Purchasing System ##
 
 This system has yet to be determined.
 
 I'm thinking a barter system or a system based on weight of materials in + a service charge VS goods out....  Unsure
 
-==Automail==
+## Automail ##
 
 Avrilax has Engineers that have discovered how to craft fully functional replacement limbs for those in need.  These replacement limbs are connected to the existing nervous system in a procedure that is so painful that some have died during its execution.  
 
@@ -196,7 +196,7 @@ Engineers are a very close organization that guard their secrets from any outsid
 
 There is only one place to have this procedure done.  It is also the only place to learn to become an Engineer.  This place is located in a mountain range.  The only way to access the only door is to climb a switch back trail for almost a mile.  The only known way to get through the door at the top is to have an Engineer let you in.
 
-=Magic=
+## Magic ##
 
 This section will explain how the different character types interact with Magic in the world.
 
@@ -204,21 +204,21 @@ There is no spells per day system.
 
 There is still a spells known system.
 
-===Sorcerers===
+### Sorcerers ###
 
 All Sorcerers start with an altered version of Quicken Spell.  The alteration is that they get the benefit of the ability without having to alter the RT of the 2nd spell cast that round.  They can take Quicken Spell more than once.  This 2nd time is not something they get automatically and the RT modification does apply to the 3rd spell cast in that round.  Another thing to keep in mind, Any spell cast follows the rules outlined in the explanation in the Spells section (below) as far as what can be cast in the same round and having to wait for the RT to pass after the casting.
 
-===Wizards===
+### Wizards ###
 
 Wizards know more spells than a Sorcerer, but cannot fire them off at such a rapid pace.  They get a familiar.
 
-=Spells=
+# Spells #
 
 This section will cover the possible systems that I am dreaming up for how Spells work.
 
-==Option 1==
-
 Bear with me on this aspect, this is going to be a system I am coming up with on my own and, though it was the first thing I started, it will most likely be the last one I finish.
+
+## Option 1 ##
 
 Spell casting uses a system called Recovery Times (RT).  The RT of a spell is equal to the number of rounds between each casting.  A 0 RT spell can be cast every round and a 1 RT spell can be cast every other round.  A 5 RT spell can be cast every 6 rounds.
 
@@ -226,21 +226,33 @@ I am still determining how many RTs there will be. Initially I was going to have
 
 Below are the things I am considering using for the RT mechanism  
 
-#If you cast an RT3 spell, you cannot cast another RT3 spell until the counter for the first counts down.  
-#*Meaning that it isn't just that spell that is inaccessible during the RT, but all spells of that RT are on a cool down.  I have already considered revising this as it seems too crippling.  
-#The solution I was considering is once the spells are broken into their RTs, break them down again into elements (Elemental, Necromantic, Force and so on) and say that you can cast multiple spells from the same RT without effecting the entire RT.  An example, You cast an RT3 Necromancy spell, all RT3 Necromancy spells have to wait to be cast again, but you could still cast an RT3 Elemental spell or a spell of a different RT all together.
+If you cast an RT3 spell, you cannot cast another RT3 spell until the counter for the first counts down.  
 
-===Spell List===
+*Meaning that it isn't just that spell that is inaccessible during the RT, but all spells of that RT are on a cool down.  I have already considered revising this as it seems too crippling.  
+
+The solution I was considering is once the spells are broken into their RTs, break them down again into elements (Elemental, Necromantic, Force and so on) and say that you can cast multiple spells from the same RT without effecting the entire RT.  An example, You cast an RT3 Necromancy spell, all RT3 Necromancy spells have to wait to be cast again, but you could still cast an RT3 Elemental spell or a spell of a different RT all together.
+
+## Option 2 ##
+
+At character creation, you chose 1 main category of spells and 2 minor categories.  
+
+An example would be, Major = Fire and Minor = Change(?) and Creation.  This character would start with a useful, but slightly weak, Fire spell (that only effects a single target), a spell for changing the sensory inputs received by the target of the spell (making foot steps sound like dripping water and such, though the targets other senses can ruin the deception) and a spell that allows him to create cheap armor or weapons, but not both at this point (these would be weaker than if they owned the same equipment made by conventional means, at this point).  Then, as they gain levels these spells would get stronger and take on different uses.  Fire would do more damage, catch enemies on fire, explode on impact and such.  Change would possibly become able to change the appearance of certain things eventually maybe even bestowing the ability to become invisible.  Creation would make better armor weapons and possibly allow for certain magical effects to be placed on created equipment, or it would allow for the creation of a feast and who knows what else.
+
+Keep in mind that the above example is an "on-the-spot" example.  These are not the final thoughts just me explaining a  way that this '''could''' work.
+
+I really like this system and will work on this a little more.
+
+### Spell List ###
 
 These are not organized the way that I will wind up having them.  
 
-#There most definitely will not be 17 RTs.  
-#I will be dividing them up differently, there won't be Abjuration, Conjuration and all that junk.  
-#I am considering splitting the spells between Sorcerers and Wizards so that they are mostly separate lists.
+There most definitely will not be 17 RTs.  
+I will be dividing them up differently, there won't be Abjuration, Conjuration and all that junk.  
+I am considering splitting the spells between Sorcerers and Wizards so that they are mostly separate lists.
 
 I just had an interesting idea, what about making it so that once you have chosen your spells for that level there is no learning from that levels list again until level 18 or higher.  This would most likely entail changing the system since I have already said, and still maintain, that there will not be RT 17 spells.
 
-===RT-0 Sorcerer/Wizard Spells===
+### RT-0 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -294,7 +306,7 @@ Universal
 Arcane Mark: Inscribes a personal rune on an object or creature (visible or invisible).<br>
 Prestidigitation: Performs minor tricks.
 
-===RT-1 Sorcerer/Wizard Spells===
+### RT-1 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -366,7 +378,7 @@ Jump: Subject gets bonus on Acrobatics checks.<br>
 Magic Weapon: Weapon gains +1 bonus.<br>
 Reduce Person: Humanoid creature halves in size.
 
-===RT-2 Sorcerer/Wizard Spells===
+### RT-2 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -418,7 +430,7 @@ Fox’s Cunning: Subject gains +4 to Int for 1 min./level.<br>
 Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level.<br>
 Whispering Wind: Sends a short message 1 mile/level.
 
-===RT-3 Sorcerer/Wizard Spells===
+### RT-3 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -470,7 +482,7 @@ Pyrotechnics: Turns fire into blinding light or thick smoke.<br>
 Rope Trick: As many as eight creatures hide in extradimensional space.<br>
 Spider Climb: Grants ability to walk on walls and ceilings.
 
-===RT-4 Sorcerer/Wizard Spells===
+### RT-4 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -516,7 +528,7 @@ Secret Page: Changes one page to hide its real content.<br>
 Shrink Item: Object shrinks to one-sixteenth size.<br>
 Water Breathing: Subjects can breathe underwater.
 
-===RT-5 Sorcerer/Wizard Spells===
+### RT-5 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -566,7 +578,7 @@ Haste: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves
 Keen Edge: Doubles normal weapon’s threat range.<br>
 Slow: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 
-===RT-6 Sorcerer/Wizard Spells===
+### RT-6 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -606,7 +618,7 @@ Elemental Body I: Turns you into a Small elemental.<br>
 Mnemonic Enhancer: Wizard only. Prepare extra spells or retain one just cast.<br>
 Stone Shape: Sculpts stone into any shape.
 
-===RT-7 Sorcerer/Wizard Spells===
+### RT-7 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -655,7 +667,7 @@ Beast Shape II: You take the form and some of the powers of a Tiny or Large anim
 Enlarge Person, Mass: 1 humanoid creature/level doubles in size.<br>
 Reduce Person, Mass: As reduce person, but affects 1 humanoid creature/level.
 
-===RT-8 Sorcerer/Wizard Spells===
+### RT-8 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -700,7 +712,7 @@ Elemental Body II: Turns you into a Medium elemental.<br>
 Fabricate: Transforms raw materials into finished items.<br>
 Transmute Rock to Mud: Transforms two 10-ft. Cubes per level.
 
-===RT-9 Sorcerer/Wizard Spells===
+### RT-9 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -757,7 +769,7 @@ Universal
 
 Permanency: Makes certain spells permanent.
 
-===RT-10 Sorcerer/Wizard Spells===
+### RT-10 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -803,7 +815,7 @@ Owl’s Wisdom, Mass: As owl’s wisdom, affects 1 subject/level.<br>
 Stone to Flesh: Restores petrified creature.<br>
 Transformation: You gain combat bonuses.
 
-RT-11 Sorcerer/Wizard Spells
+### RT-11 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -855,7 +867,7 @@ Plant Shape II: Turns you into a Large plant creature.<br>
 Polymorph, Greater: Gives one willing subject a new, more powerful form.<br>
 Reverse Gravity: Objects and creatures fall upward.
 
-===RT-14 Sorcerer/Wizard Spells===
+### RT-14 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -897,7 +909,7 @@ Transmutation
 Iron Body: Your body becomes living iron. <br>
 Temporal Stasis: Puts subject into suspended animation. 
 
-===RT-15 Sorcerer/Wizard Spells=== 
+### RT-15 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -943,7 +955,7 @@ Form of the Dragon III: Turns you into a Huge dragon.<br>
 Giant Form II: Turns you into a Huge giant.<br>
 Polymorph Any Object: Changes a subject into anything else.
 
-===RT-16 Sorcerer/Wizard Spells===
+### RT-16 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -976,7 +988,7 @@ Transmutation
 
 Etherealness: Travel to Ethereal Plane with companions.
 
-===RT-17 Sorcerer/Wizard Spells===
+### RT-17 Sorcerer/Wizard Spells ###
 
 Abjuration
 
@@ -1014,13 +1026,3 @@ Transmutation
 
 Shapechange: Transforms you into certain creatures, and lets you change forms once per round.<br>
 Time Stop: You act freely for 1d4+1 rounds.
-
-==Option 2==
-
-At character creation, you chose 1 main category of spells and 2 minor categories.  
-
-An example would be, Major = Fire and Minor = Change(?) and Creation.  This character would start with a useful, but slightly weak, Fire spell (that only effects a single target), a spell for changing the sensory inputs received by the target of the spell (making foot steps sound like dripping water and such, though the targets other senses can ruin the deception) and a spell that allows him to create cheap armor or weapons, but not both at this point (these would be weaker than if they owned the same equipment made by conventional means, at this point).  Then, as they gain levels these spells would get stronger and take on different uses.  Fire would do more damage, catch enemies on fire, explode on impact and such.  Change would possibly become able to change the appearance of certain things eventually maybe even bestowing the ability to become invisible.  Creation would make better armor weapons and possibly allow for certain magical effects to be placed on created equipment, or it would allow for the creation of a feast and who knows what else.
-
-Keep in mind that the above example is an "on-the-spot" example.  These are not the final thoughts just me explaining a  way that this '''could''' work.
-
-I really like this system and will work on this a little more.
