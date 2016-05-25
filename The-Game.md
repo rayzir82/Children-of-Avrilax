@@ -1,8 +1,8 @@
-=System=
+# System #
 
 I will most likely be using a dice pool system for most of the dice rolling throughout the game.
 
-==Die System==
+## Die System ##
 
 These are the terms that I will be using to describe die results.
 
@@ -32,19 +32,19 @@ Success    13-20
 
 I am still very much working on this.
 
-=Attributes=
+# Attributes #
 
 There are so many systems that work, each in their own way.  Still mostly torn on how to approach this.
 
-=Races=
+# Races #
 
-Hobbits/Halflings do not exist on Avrilax.  The only short races are Gnomes and Dwarves.
+Hobbits/Halflings do not exist on Avrilax.  The only short playable races are Gnomes and Dwarves.
 
 There are no half-breeds.  Biologically, nothing on Avrilax can breed with a member of another race and produce offspring.
 
 I'm considering having each race have at least 1 special evolution, or a change from what they traditionally are.  
 
-==Dwarves==
+## Dwarves ##
 
 Dwarves stand no taller than 4'6", but can be found to be as short as 3'6", and are most recognizable from the front by their beards, which they will never cut by choice (see below).  From behind they are recognizable by their spikes that cover their backs and arms (see Evolution).
 
@@ -54,7 +54,7 @@ If a Dwarfs beard is cut by an enemy in combat, that Dwarf will usually go into 
 
 If a Dwarfs beard has been cut as a punishment, then it is an acknowledged matter of having dishonored ones person, family or clan somehow.  Other Dwarves will go to great lengths to avoid a beardless Dwarf, sometimes becoming hostile simply to not be seen in contact with one.  These Dwarfs are usually on the path of redemption.  Nothing will stop one of these Dwarves from clearing their honor.
 
-====Evolution====
+#### Evolution ####
 
 Dwarves have a large number of bony protrusions on their backs that grow out and then curve down, ending in a sharp point, making a scale-like armor when they are standing up and making them more like a porcupine when curled up.  These spikes start at their shoulders and extend all the way down their backs to their tail bones, as well as covering the  outside of their arms down to their knuckles and they also cover the front of their shins.  
 
