@@ -20,17 +20,15 @@ There are no gods on Avrilax.  Some cultures around the world do worship things 
 
 # Children of Avrilax #
 
-Avrilax is a deity as well as a planet.  It does not interfere in any way with the life that exists on it, in any way.
+Avrilax is a deity as well as a planet.  It does not interfere with the life that exists on it, in any way.
 
-People don't procreate on Avrilax to have children, only for there own amusement.  The planet produces new children and everyone helps raise them and look after them.
+People don't procreate on Avrilax to have children, only for their own amusement.  The planet produces new children and everyone helps raise them and look after them.
 
 The planet created every race and it doesn't see any of them as bad, just different.
 
 Man learned arcane magic, it was not given.  This means that all Arcane casters are of a single type and only vary in what they have chosen to learn.
 
-Given that there are no gods, there is no divine magic.
-
-When funerary burnings occur the body is burned on bare ground.
+Given that there are no gods vying for prayers/followers, there is no divine magic.
 
 # Story #
 
